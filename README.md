@@ -1,3 +1,4 @@
 # ApplicantAPI
-Please run npm initall 
-To install npm packages
+Please run Update-Database
+To create database 
+
